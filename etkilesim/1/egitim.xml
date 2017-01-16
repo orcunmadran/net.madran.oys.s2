@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<genelbilgiler>
+
+<anabaslik>EĞİTİM ANA BAŞLIĞI</anabaslik>
+<egitimkodu>EGT101</egitimkodu>
+<icerikklasoru>icerik</icerikklasoru>
+<kurumlogo>baskent.jpg</kurumlogo>
+<kurumurl>www.baskent.edu.tr</kurumurl>
+
+</genelbilgiler>
+
+
+<egitim>
+
+<egitim no="1" baslik="1. Ders Hakkında" icerik="icerik1.swf" anlatim="1.mp3" altyazi="Merhaba,
+Bu dersimizde Google arama moturu üzerinde kullanabileceğimiz farklı arama tekniklerinden bahsedeceğiz.
+Herkese iyi çalışmalar... "/>
+<egitim no="2" baslik="2. Google Arama Motoru" icerik="icerik2.swf" anlatim="2.mp3" altyazi="Google arama moturu İnternet üzerindeki en popüler arama motorlarından biridir. Google, İnternet üzerindeki tüm web sayfalarını özel bir program yardımıyla listeler. Bu listeler içinde herhangi bir ücret ödemeden arama yapabilir, ulaştığınız sonuçlar içinden istediğiniz bir web sayfasına geçiş yapabilirsiniz."/>
+<egitim no="3" baslik="3. Google'da Arama Yapmak" icerik="icerik3.swf" anlatim="3.mp3" altyazi="Google web sitesine ulaştığınızda sizi çok sade bir ekran karşılar. Aramalar, bu ekran içerisinde yer alan form aracılığıyla yapılır. 
+Bu forma istediğimiz bir kelime yazarak Google'da Ara butonuna tıklayıp aradığımız bilgilere ulaşabiliriz."/>
+<egitim no="4" baslik="4. Arama Yaparken Kullanılan Yöntemler" icerik="icerik4.swf" anlatim="4.mp3" altyazi="Arama Yaparken Kullanılan Yöntemler"/>
+<egitim no="5" baslik="5. Çift Tırnak" icerik="icerik5.swf" anlatim="5.mp3" altyazi="Arama yaparken konu sınırlaması önemlidir. Bunun için aranacak sözcüklerin başına ve sonuna çift tırnak eklenmelidir."/>
+<egitim no="6" baslik="6. Joker İşareti" icerik="icerik6.swf" anlatim="6.mp3" altyazi="Arama yaparken aradığınız kelimenin tamamını bilmiyorsanız ya da o kelimeyle başlayan tüm kelimeleri sıralamak istiyorsanız joker işareti (*) kullanabilirsiniz. Bunun için aranacak sözcüklerin sonuna (*) konmalıdır."/>
+<egitim no="7" baslik="7. Artı , Eksi" icerik="icerik7.swf" anlatim="7.mp3" altyazi="Aranacak konu içerisinde mutlaka geçmesini istediğiniz sözcüklerin başına  + (artı), geçmesini istemediklerinizin başına - (eksi) işareti konur."/>
+<egitim no="8" baslik="8. AND (ve), OR (veya)" icerik="icerik8.swf" anlatim="8.mp3" altyazi="Bağlaçlar da + ve - gibi kullanılır. AND(ve), OR(veya) bağlaçları sayesinde de aramanızı, geçmesini istediğiniz veya istemediğiniz kelimeler için yapabilirsiniz."/>
+<egitim no="9" baslik="9. Nokta" icerik="icerik9.swf" anlatim="9.mp3" altyazi="Nokta(.) kullanarak arama yapacağınız konuyu netleştirebilir, daha kesin sonuçlara ulaşabilirsiniz."/>
+<egitim no="10" baslik="10.Resim (Grafik) Arama Ekranı" icerik="icerik10.swf" anlatim="10.mp3" altyazi="Google arama motorunda resim (grafik) aramak için grafikler düğmesini tıklayınız."/>
+<egitim no="11" baslik="11. Resim (Grafik) Arama" icerik="icerik11.swf" anlatim="11.mp3" altyazi="Grafikler düğmesine bastıktan sonra, grafiğini bulmak istediğiniz kelimeyi girin ve Resimlerde Ara düğmesine basın."/>
+<egitim no="12" baslik="12. Arama Sonuçları" icerik="icerik12.swf" anlatim="12.mp3" altyazi="Aramanızın sonucu Google tarafından hazırlanmış ve artık size sunulmuştur. Sunulan sonuçlar içinden istediğiniz birine tıklayarak ilgili web sayfasına ya da grafiğe ulaşabilirsiniz. "/>
+<egitim no="13" baslik="13. Sonuç" icerik="icerik13.swf" anlatim="13.mp3" altyazi="Dersimiz Tamamlandı.
+Unutmayınız; Google içinde aramalarımızı yaparken Anahtar Kelime kullanımına her zaman dikkat etmeliyiz. İstenilen sonuçlara ulaşmak ancak iyi Anahtar Kelime seçimi ile mümkün olabilir.
+Herkese iyi aramalar :) "/>
+
+</egitim>
